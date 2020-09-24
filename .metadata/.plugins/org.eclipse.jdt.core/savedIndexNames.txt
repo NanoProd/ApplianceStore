@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Joshua-James\Desktop\fall2020\assignments\assignment1\.metadata\.plugins\org.eclipse.jdt.core
+2172325999.index
+2196199803.index
