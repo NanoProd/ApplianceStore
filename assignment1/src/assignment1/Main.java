@@ -1,6 +1,5 @@
 package assignment1;
 //----------------------------------------------------
-
 //Assignment 1
 //Question 1
 //Written by: Joshua-James Nantel-Ouimet (#40131733)
