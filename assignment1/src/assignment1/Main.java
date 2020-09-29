@@ -3,6 +3,7 @@ package assignment1;
 //Assignment 1
 //Question 1
 //Written by: Joshua-James Nantel-Ouimet (#40131733)
+//                      Samaninder Singh (#40133493)	
 //----------------------------------------------------
 
 import java.util.Scanner;
